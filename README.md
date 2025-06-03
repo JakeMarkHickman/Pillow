@@ -1,2 +1,2 @@
 # Pillow
-A header only math library
+Pillow is a header only math Library
